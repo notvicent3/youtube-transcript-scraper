@@ -4,7 +4,7 @@ blinker==1.5
 Brotli==1.0.9
 certifi==2022.12.7
 cffi==1.15.1
-cryptography==38.0.4
+cryptography==42.0.2
 exceptiongroup==1.1.0
 h11==0.14.0
 h2==4.1.0
